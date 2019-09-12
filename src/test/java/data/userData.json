@@ -1,0 +1,25 @@
+
+{
+
+"registeration Data" :
+ [
+{
+   "firstname" : "omar",
+   "lastname"  :  "hesham",
+   "email" : "omarifad@gmail.com",
+   "password" : "123456789"
+},
+{
+   "firstname" : "test",
+   "lastname"  :  "user",
+   "email" : "testifxwi@gmail.com",
+   "password" : "123456789"
+},
+{
+   "firstname" : "tecst",
+   "lastname"  :  "ucser",
+   "email" : "testadwi@gmail.com",
+   "password" : "123456789"
+}
+]
+}
