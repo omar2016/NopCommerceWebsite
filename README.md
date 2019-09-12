@@ -6,6 +6,9 @@ such as Json, Excel sheet, faker library, CSV file,Data provider, Data propertie
 - selenium Webdriver
 - Maven 
 - TestNG
+- headless testing
+- phantomJs
+- headless chrome
 - Page Object Modeling Design pattern
 - Testng Xml to run the suit in different browser
 - dependency of faker libarary
